@@ -1,0 +1,56 @@
+
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+
+body{
+background-color:white;
+}
+
+footer{
+    background-color: grey;
+    position: fixed;
+        width: 100%;
+        bottom: 0;
+}
+
+.text-center{
+font-family: -apple-system;
+font-size:16px;
+color: white;
+padding:0.5vw;
+}
+
+img{
+width:60vw;
+height: 38vw;
+margin-top:0.5rem;
+justify-content: center;
+}
+
+.carousel-item, carousel-inner{
+    text-align: center;
+}
+
+a.navbar-brand {
+    font-size: 1.4rem;
+}
+
+#cerrarSesion{border-radius: 7px;
+}
+
+#espacioCerrar{
+padding-right: 55vw;
+}
+
+.container .col-sm-6{
+width: 100vw;
+text-align: left;
+
+}
+
+.justify-content-center{
+padding: 10px;
+}
+
+button:hover{
+background-color: #76D7C4;
+}
